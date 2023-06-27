@@ -9,7 +9,8 @@ with open("mails.txt", "rt", encoding="utf-8") as file:
             emails_dict[mail] = 1
         else:
              emails_dict[mail] += 1
-             
+
+emails_dict = sorted(emails_dict.items(), key=lambda x:x[1], reverse=True)
 with open("result.txt", "wt", encoding="utf-8") as file:
     file.write(json.dumps(emails_dict, indent=4))
         

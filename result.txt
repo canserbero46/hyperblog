@@ -1,300 +1,1194 @@
-{
-    "dhitias@unicauca.edu.co": 1,
-    "celismx@gmail.com": 2,
-    "68079881+CarlosCarbajalDev@users.noreply.github.com": 1,
-    "sergioivan.pinon@gamil.com": 1,
-    "me@juandc.co": 658,
-    "ezurita1975@gmail.com": 1,
-    "mirtondflores93@gmail.com": 1,
-    "davidarmando.gdl@live.com": 1,
-    "sntwandy@gmail.com": 2,
-    "alexchirino3@gmail.com": 1,
-    "Hurtdany@gmail.com": 1,
-    "juan24.martinez05@gmail.com": 1,
-    "iris9112@gmail.com": 1,
-    "ediordonez91@gmail.com": 1,
-    "52212307+MelissaMashiro@users.noreply.github.com": 1,
-    "andres.anni1985@gmail.com": 1,
-    "DLoretoSalas@gmail.com": 1,
-    "50314639+cjjmdata@users.noreply.github.com": 1,
-    "miguel.morales.6395@gmail.com": 1,
-    "ocamisubira@gmail.com": 1,
-    "helite_hg@hotmail.com": 1,
-    "drumssand@gmail.com": 1,
-    "reneclavijo@live.com": 1,
-    "fsagudelotrillos@gmail.com": 1,
-    "51870396+Juli4nDev@users.noreply.github.com": 1,
-    "sgermosen@praysoft.net": 1,
-    "moralesmatiasandres@gmail.com": 1,
-    "sergiolpv97@gmail.com": 1,
-    "41118847+FavioSauto@users.noreply.github.com": 1,
-    "51381511+LeoA78@users.noreply.github.com": 1,
-    "inf.lrodriguez@gmail.com": 1,
-    "vittoriocarlotoledo@gmail.com": 1,
-    "andesecci12@gmail.com": 2,
-    "hugovg799@gmail.com": 2,
-    "mansumdp@gmail.com": 2,
-    "29735202+Fernandrewm@users.noreply.github.com": 1,
-    "50970344+moransantiago@users.noreply.github.com": 1,
-    "Axlngzh@gmail.com": 1,
-    "36210359+santidalmasso@users.noreply.github.com": 1,
-    "angelinagranados@gmail.com": 1,
-    "riccardolondoni@gmail.com": 8,
-    "52515437+Pablo-22@users.noreply.github.com": 1,
-    "jaredortega2715@gmail.com": 1,
-    "bautistatancredi@hotmail.com": 1,
-    "t0d0c4m614@hotmail.com": 1,
-    "jama117@hotmail.com": 1,
-    "freddier@gmail.com": 32,
-    "eihg_103@hotmail.com": 1,
-    "contactosegovia@protonmail.com": 1,
-    "gkathe93@gmail.com": 1,
-    "ismaeldominguezmoreno@gmail.com": 1,
-    "rafaelriosprado@gmail.com": 1,
-    "crumblecoder@gmail.com": 1,
-    "santiagoharkes@gmail.com": 1,
-    "46754689+galvismj@users.noreply.github.com": 1,
-    "mcariboni@icloud.com": 1,
-    "paulclindo@gmail.com": 1,
-    "pablofabian.3321@gmail.com": 1,
-    "luis_076@hotmail.com": 1,
-    "coronaeduarxx@gmail.com": 1,
-    "j_k_r@outlook.com": 1,
-    "carlosa.ruales@gmail.com": 1,
-    "52945683+HaroldCastano@users.noreply.github.com": 1,
-    "jg08950@gmail.com": 1,
-    "joseolivacr@unimagdalena.edu.co": 4,
-    "jhon.reyes@openserver.com.pe": 1,
-    "30330796+myantoniob@users.noreply.github.com": 1,
-    "diegogomez268@gmail.com": 1,
-    "23oscarruiz07@gmail.com": 1,
-    "durbonca@hotmail.com": 1,
-    "sipra_morgadoteddy@hotmail.com": 1,
-    "azor182ahai@gmail.com": 1,
-    "andreyalth@gmail.com": 1,
-    "chabadedosqui@gmail.com": 1,
-    "magallon_zepeda_carlos@hotmail.com": 1,
-    "mauxi.andrade@gmail.com": 1,
-    "mmesas369@gmail.com": 2,
-    "50670498+leti-berardo@users.noreply.github.com": 1,
-    "antonis162010@gmail.com": 1,
-    "saulcoronasantos@gmail.com": 1,
-    "araujo.carlosm@gmail.com": 1,
-    "fernandrewm@gmail.com": 1,
-    "ricardo.lopezh97@gmail.com": 1,
-    "pablo.andres.aguero@gmail.com": 2,
-    "42761419+carlosmantilla23@users.noreply.github.com": 1,
-    "gabrielgt12@hotmail.com": 1,
-    "richardoot11@gmail.com": 1,
-    "giovany.torres.799@gmail.com": 1,
-    "daniel_cr_12@hotmail.com": 1,
-    "hugo_dancebreak@msn.com": 1,
-    "48034545+drew-santana@users.noreply.github.com": 1,
-    "monoprosito@gmail.com": 1,
-    "hola@albertofragoso.com": 1,
-    "36712042+kanigula162@users.noreply.github.com": 1,
-    "angelcastiblanco96@gmail.com": 1,
-    "johanq89@gmail.com": 1,
-    "47578400+JesusRRRojas@users.noreply.github.com": 1,
-    "luisa_malaver@hotmail.com": 1,
-    "mariapaularoes@gmail.com": 1,
-    "ing.daniel.go@gmail.com": 1,
-    "cancorreo1001@gmail.com": 1,
-    "david_ivan240@ciencias.unam.mx": 1,
-    "eltonsedano35@gmail.com": 1,
-    "elisonsanchez15@gmail.com": 1,
-    "luistua@gmail.com": 1,
-    "potatokoosh@gmail.com": 1,
-    "radeon777@live.com": 1,
-    "8047140+jcolorado19@users.noreply.github.com": 1,
-    "yoelribero9@gmail.com": 1,
-    "fierrofenix@gmail.com": 1,
-    "44810201+sebastyler@users.noreply.github.com": 1,
-    "ibikatti@gmail.com": 3,
-    "luis152288@gmail.com": 1,
-    "52257577+SCT-dev-One@users.noreply.github.com": 1,
-    "aurelio.guerrero@gmail.com": 5,
-    "vincentjbs@gmail.com": 1,
-    "lzabala28@gmail.com": 1,
-    "45633943+solnaranjo@users.noreply.github.com": 1,
-    "william.velazquez.a@gmail.com": 1,
-    "kikega@telefonica.net": 1,
-    "52335231+GastonCaldera@users.noreply.github.com": 1,
-    "48264455+sergioriosp04@users.noreply.github.com": 1,
-    "xteban06@gmail.com": 1,
-    "oceballos@ucol.mx": 1,
-    "albertoglezb@hotmail.com": 1,
-    "danielgbc2610@gmail.com": 1,
-    "rodrigo.cruz@exxis-group.com": 1,
-    "42484663+VRAraya@users.noreply.github.com": 1,
-    "luisrangelc@rpaipos.com": 1,
-    "kathya.pravia@gmail.com": 1,
-    "jvasquez79@gmail.com": 1,
-    "rogeralmengor@gmail.com": 1,
-    "zeladarick@gmail.com": 1,
-    "mosqueradavid@outlook.es": 1,
-    "soulsilversx@gmail.com": 1,
-    "juanpa_celedon@outlook.com": 1,
-    "alvarolh27@hotmail.com": 1,
-    "said.g@hotmail.com": 1,
-    "crash.diego91@gmail.com": 1,
-    "joseantoniofdezcobos@gmail.com": 1,
-    "emauriciobc@hotmail.com": 1,
-    "carloxrivera89@gmail.com": 4,
-    "30516460+RonaldNolascoU@users.noreply.github.com": 1,
-    "juanpablofds@gmail.com": 1,
-    "alexis.pv19@gmail.com": 1,
-    "abyleyva75@gmail.com": 1,
-    "tizianaamicarella.tag@gmail.com": 1,
-    "charlesshb98@gmail.com": 1,
-    "alejandrosoto08@gmail.com": 1,
-    "davidpr92@hotmail.com": 1,
-    "xavierfiv@gmail.com": 1,
-    "julio.bp2@gmail.com": 1,
-    "marc.fuentesa@alumnos.duoc.cl": 1,
-    "luisfelipe588@hotmail.com": 1,
-    "51925565+lokymm@users.noreply.github.com": 1,
-    "solisgregorip@gmail.com": 1,
-    "alex11_bran@hotmail.com": 1,
-    "jrojo@sre.gob.mx": 1,
-    "rymoisess@gmail.com": 1,
-    "jhina.rivera@bitsamericas.com": 1,
-    "chisthoper96@gmail.com": 1,
-    "47611250+lalouy90@users.noreply.github.com": 1,
-    "luis102128@outlook.com": 1,
-    "musenberg404@gmail.com": 1,
-    "danielfernandocorrea1@gmail.com": 1,
-    "jperdomocorrea@gmail.com": 1,
-    "tetolivares@gmail.com": 1,
-    "raul.franco@norvoz.es": 1,
-    "hector_bueno17@hotmail.com": 1,
-    "ingdairoaguas@gmail.com": 1,
-    "zonalez1@gmail.com": 1,
-    "andresparedesdesign@gmail.com": 1,
-    "olveratelcel@gmail.com": 1,
-    "48360535+LimjoJin@users.noreply.github.com": 1,
-    "esaur22@yahoo.com": 2,
-    "dsantacruz@gmail.com": 1,
-    "g.miguel27@gmail.com": 1,
-    "jlrcolmenares@gmail.com": 2,
-    "gerardoalvarado.bionico@gmail.com": 1,
-    "cjimenezd90@gmail.com": 1,
-    "mr.sauce97@gmail.com": 2,
-    "benitez.leonardo06@gmail.com": 1,
-    "robertomarzoa@gmail.com": 1,
-    "34929517+Guille0197@users.noreply.github.com": 1,
-    "fher.melendez@gmail.com": 1,
-    "51744009+NataliaRE@users.noreply.github.com": 1,
-    "juan.coscollola@gmail.com": 1,
-    "ronyramsol@gmail.com": 1,
-    "felipe-sc@hotmail.es": 1,
-    "jenvigo@gmail.com": 1,
-    "ciro1200@gmail.com": 1,
-    "ingdcuevas@gmail.com": 1,
-    "jestobar@udlanet.ec": 1,
-    "damartinezru@gmail.com": 1,
-    "patricionicanorcabrera@gmail.com": 1,
-    "jpvillaplana@gmail.com": 1,
-    "48460492+eocas98@users.noreply.github.com": 1,
-    "atlantox7@gmail.com": 1,
-    "yejagoar@hotmail.com": 1,
-    "luisfloresdev@gmail.com": 2,
-    "stefany.vega2210@gmail.com": 1,
-    "43894343+matias4205@users.noreply.github.com": 1,
-    "34718852+EchinFer@users.noreply.github.com": 1,
-    "fabandres08@gmail.com": 1,
-    "14470208@itcampeche.edu.mx": 1,
-    "diego_suarez@outlook.com": 1,
-    "leitorino_ajl2@hotmail.com": 1,
-    "31641682+Kenar716@users.noreply.github.com": 1,
-    "melyssasolanod@gmail.com": 1,
-    "45796914+Samuelab2@users.noreply.github.com": 1,
-    "mrtn_dja@hotmail.com": 1,
-    "jgarzonebrath08@gmail.com": 1,
-    "tmaniacus@gmail.com": 1,
-    "onekyork@hotmail.com": 1,
-    "kmilogong@gmail.com": 1,
-    "aeonics@users.noreply.github.com": 1,
-    "carlosandrescr99@gmail.com": 1,
-    "matiasperezpc@hotmail.com": 1,
-    "gabrielpmolero@gmail.com": 1,
-    "franciscorojas92@gmail.com": 1,
-    "51029575+DubAvenXP@users.noreply.github.com": 1,
-    "42588043+junioraguayocuadros@users.noreply.github.com": 1,
-    "elazul92ortiz@gmail.com": 1,
-    "rojasleon122@gmail.com": 1,
-    "augustocacersuto1985@gmail.com": 1,
-    "omoreno@widetech.com.co": 1,
-    "rodrigogaonagonzalez@gmail.com": 1,
-    "ciprianot.bryan@gmail.com": 1,
-    "jesuslopez@ciencias.unam.mx": 1,
-    "j97valey@gmail.com": 1,
-    "eyepez@solomediagroup.co": 1,
-    "jmonterrey1993@gmail.com": 1,
-    "javieracevedoaltube@gmail.com": 1,
-    "48167910+jaacode@users.noreply.github.com": 1,
-    "alejandro7120@gmail.com": 1,
-    "bran941@gmail.com": 1,
-    "andres_car098@hotmail.com": 1,
-    "39383351+fawkes55@users.noreply.github.com": 1,
-    "matiexe31@gmail.com": 1,
-    "juliocardenasr@gmail.com": 1,
-    "Ruben.pipe.alvarez@gmail.com": 1,
-    "whary11@gmail.com": 1,
-    "bernardoayala2@gmail.com": 1,
-    "beapsant@gmail.com": 1,
-    "48229215+jhonM8a@users.noreply.github.com": 1,
-    "dalexisbr@gmail.com": 1,
-    "lenin@michelada.io": 2,
-    "galaxy.net0710@gmail.com": 1,
-    "migue_uio93@hotmail.com": 1,
-    "david.2818@outlook.com": 1,
-    "47837439+Audio10@users.noreply.github.com": 1,
-    "rrrodriguezc83@gmail.com": 1,
-    "jairpartida1@gmail.com": 1,
-    "andresageitos@gmail.com": 1,
-    "jon.cl371@gmail.com": 1,
-    "acevedocris17@gmail.com": 1,
-    "46495565+GerArJe@users.noreply.github.com": 1,
-    "bhalut.bear@gmail.com": 1,
-    "paulacode01@gmail.com": 1,
-    "quinterosantiago15@gmail.com": 1,
-    "ericyec@gmail.com": 1,
-    "50107962+rodrigobosarreyes@users.noreply.github.com": 1,
-    "dgpericos@gmail.com": 1,
-    "aguilarmanu5@gmail.com": 1,
-    "moisespatinoh@gmail.com": 1,
-    "maxidv88@gmail.com": 1,
-    "daniel.martinez.sarta@gmail.com": 1,
-    "ricardo.anthont.tierra@Gmail.com": 1,
-    "alirioangelarenas@gmail.com": 1,
-    "cristhho@gmail.com": 1,
-    "jhonhst2@gmail.com": 1,
-    "jusemonca@gmail.com": 1,
-    "developerquino@hotmail.es": 1,
-    "uzzielasv@gmail.com": 1,
-    "43417614+Victor-Landa@users.noreply.github.com": 1,
-    "norbbs@gmail.com": 2,
-    "alexabellerman@gmail.com": 1,
-    "eden.verdugo@gmail.com": 1,
-    "48002294+YerkoEstevez@users.noreply.github.com": 1,
-    "joel.e.gaspar@gmail.com": 1,
-    "jpleyvat@gmail.com": 1,
-    "adrianmorenojh@hotmail.com": 1,
-    "30274227+Lcaraballoc@users.noreply.github.com": 1,
-    "mauricionline123@gmail.com": 1,
-    "50891951+irvingsan@users.noreply.github.com": 1,
-    "35357785+Andradeerik@users.noreply.github.com": 1,
-    "jghernandez84@gmail.com": 1,
-    "gonzadeveloper@gmail.com": 1,
-    "ilder948@gmail.com": 1,
-    "dliterat@gmail.com": 1,
-    "edgar.barragan@gmail.com": 1,
-    "elyager@gmail.com": 1,
-    "victor_neptuno@hotmail.com": 1,
-    "36989047+kingsman7@users.noreply.github.com": 1,
-    "lcmojica@gmail.com": 1,
-    "freddier+anita@gmail.com": 3,
-    "49731321+anitaplatzi@users.noreply.github.com": 1,
-    "team@platzi.com": 17
-}
+[
+    [
+        "me@juandc.co",
+        658
+    ],
+    [
+        "freddier@gmail.com",
+        32
+    ],
+    [
+        "team@platzi.com",
+        17
+    ],
+    [
+        "riccardolondoni@gmail.com",
+        8
+    ],
+    [
+        "aurelio.guerrero@gmail.com",
+        5
+    ],
+    [
+        "joseolivacr@unimagdalena.edu.co",
+        4
+    ],
+    [
+        "carloxrivera89@gmail.com",
+        4
+    ],
+    [
+        "ibikatti@gmail.com",
+        3
+    ],
+    [
+        "freddier+anita@gmail.com",
+        3
+    ],
+    [
+        "celismx@gmail.com",
+        2
+    ],
+    [
+        "sntwandy@gmail.com",
+        2
+    ],
+    [
+        "andesecci12@gmail.com",
+        2
+    ],
+    [
+        "hugovg799@gmail.com",
+        2
+    ],
+    [
+        "mansumdp@gmail.com",
+        2
+    ],
+    [
+        "mmesas369@gmail.com",
+        2
+    ],
+    [
+        "pablo.andres.aguero@gmail.com",
+        2
+    ],
+    [
+        "esaur22@yahoo.com",
+        2
+    ],
+    [
+        "jlrcolmenares@gmail.com",
+        2
+    ],
+    [
+        "mr.sauce97@gmail.com",
+        2
+    ],
+    [
+        "luisfloresdev@gmail.com",
+        2
+    ],
+    [
+        "lenin@michelada.io",
+        2
+    ],
+    [
+        "norbbs@gmail.com",
+        2
+    ],
+    [
+        "dhitias@unicauca.edu.co",
+        1
+    ],
+    [
+        "68079881+CarlosCarbajalDev@users.noreply.github.com",
+        1
+    ],
+    [
+        "sergioivan.pinon@gamil.com",
+        1
+    ],
+    [
+        "ezurita1975@gmail.com",
+        1
+    ],
+    [
+        "mirtondflores93@gmail.com",
+        1
+    ],
+    [
+        "davidarmando.gdl@live.com",
+        1
+    ],
+    [
+        "alexchirino3@gmail.com",
+        1
+    ],
+    [
+        "Hurtdany@gmail.com",
+        1
+    ],
+    [
+        "juan24.martinez05@gmail.com",
+        1
+    ],
+    [
+        "iris9112@gmail.com",
+        1
+    ],
+    [
+        "ediordonez91@gmail.com",
+        1
+    ],
+    [
+        "52212307+MelissaMashiro@users.noreply.github.com",
+        1
+    ],
+    [
+        "andres.anni1985@gmail.com",
+        1
+    ],
+    [
+        "DLoretoSalas@gmail.com",
+        1
+    ],
+    [
+        "50314639+cjjmdata@users.noreply.github.com",
+        1
+    ],
+    [
+        "miguel.morales.6395@gmail.com",
+        1
+    ],
+    [
+        "ocamisubira@gmail.com",
+        1
+    ],
+    [
+        "helite_hg@hotmail.com",
+        1
+    ],
+    [
+        "drumssand@gmail.com",
+        1
+    ],
+    [
+        "reneclavijo@live.com",
+        1
+    ],
+    [
+        "fsagudelotrillos@gmail.com",
+        1
+    ],
+    [
+        "51870396+Juli4nDev@users.noreply.github.com",
+        1
+    ],
+    [
+        "sgermosen@praysoft.net",
+        1
+    ],
+    [
+        "moralesmatiasandres@gmail.com",
+        1
+    ],
+    [
+        "sergiolpv97@gmail.com",
+        1
+    ],
+    [
+        "41118847+FavioSauto@users.noreply.github.com",
+        1
+    ],
+    [
+        "51381511+LeoA78@users.noreply.github.com",
+        1
+    ],
+    [
+        "inf.lrodriguez@gmail.com",
+        1
+    ],
+    [
+        "vittoriocarlotoledo@gmail.com",
+        1
+    ],
+    [
+        "29735202+Fernandrewm@users.noreply.github.com",
+        1
+    ],
+    [
+        "50970344+moransantiago@users.noreply.github.com",
+        1
+    ],
+    [
+        "Axlngzh@gmail.com",
+        1
+    ],
+    [
+        "36210359+santidalmasso@users.noreply.github.com",
+        1
+    ],
+    [
+        "angelinagranados@gmail.com",
+        1
+    ],
+    [
+        "52515437+Pablo-22@users.noreply.github.com",
+        1
+    ],
+    [
+        "jaredortega2715@gmail.com",
+        1
+    ],
+    [
+        "bautistatancredi@hotmail.com",
+        1
+    ],
+    [
+        "t0d0c4m614@hotmail.com",
+        1
+    ],
+    [
+        "jama117@hotmail.com",
+        1
+    ],
+    [
+        "eihg_103@hotmail.com",
+        1
+    ],
+    [
+        "contactosegovia@protonmail.com",
+        1
+    ],
+    [
+        "gkathe93@gmail.com",
+        1
+    ],
+    [
+        "ismaeldominguezmoreno@gmail.com",
+        1
+    ],
+    [
+        "rafaelriosprado@gmail.com",
+        1
+    ],
+    [
+        "crumblecoder@gmail.com",
+        1
+    ],
+    [
+        "santiagoharkes@gmail.com",
+        1
+    ],
+    [
+        "46754689+galvismj@users.noreply.github.com",
+        1
+    ],
+    [
+        "mcariboni@icloud.com",
+        1
+    ],
+    [
+        "paulclindo@gmail.com",
+        1
+    ],
+    [
+        "pablofabian.3321@gmail.com",
+        1
+    ],
+    [
+        "luis_076@hotmail.com",
+        1
+    ],
+    [
+        "coronaeduarxx@gmail.com",
+        1
+    ],
+    [
+        "j_k_r@outlook.com",
+        1
+    ],
+    [
+        "carlosa.ruales@gmail.com",
+        1
+    ],
+    [
+        "52945683+HaroldCastano@users.noreply.github.com",
+        1
+    ],
+    [
+        "jg08950@gmail.com",
+        1
+    ],
+    [
+        "jhon.reyes@openserver.com.pe",
+        1
+    ],
+    [
+        "30330796+myantoniob@users.noreply.github.com",
+        1
+    ],
+    [
+        "diegogomez268@gmail.com",
+        1
+    ],
+    [
+        "23oscarruiz07@gmail.com",
+        1
+    ],
+    [
+        "durbonca@hotmail.com",
+        1
+    ],
+    [
+        "sipra_morgadoteddy@hotmail.com",
+        1
+    ],
+    [
+        "azor182ahai@gmail.com",
+        1
+    ],
+    [
+        "andreyalth@gmail.com",
+        1
+    ],
+    [
+        "chabadedosqui@gmail.com",
+        1
+    ],
+    [
+        "magallon_zepeda_carlos@hotmail.com",
+        1
+    ],
+    [
+        "mauxi.andrade@gmail.com",
+        1
+    ],
+    [
+        "50670498+leti-berardo@users.noreply.github.com",
+        1
+    ],
+    [
+        "antonis162010@gmail.com",
+        1
+    ],
+    [
+        "saulcoronasantos@gmail.com",
+        1
+    ],
+    [
+        "araujo.carlosm@gmail.com",
+        1
+    ],
+    [
+        "fernandrewm@gmail.com",
+        1
+    ],
+    [
+        "ricardo.lopezh97@gmail.com",
+        1
+    ],
+    [
+        "42761419+carlosmantilla23@users.noreply.github.com",
+        1
+    ],
+    [
+        "gabrielgt12@hotmail.com",
+        1
+    ],
+    [
+        "richardoot11@gmail.com",
+        1
+    ],
+    [
+        "giovany.torres.799@gmail.com",
+        1
+    ],
+    [
+        "daniel_cr_12@hotmail.com",
+        1
+    ],
+    [
+        "hugo_dancebreak@msn.com",
+        1
+    ],
+    [
+        "48034545+drew-santana@users.noreply.github.com",
+        1
+    ],
+    [
+        "monoprosito@gmail.com",
+        1
+    ],
+    [
+        "hola@albertofragoso.com",
+        1
+    ],
+    [
+        "36712042+kanigula162@users.noreply.github.com",
+        1
+    ],
+    [
+        "angelcastiblanco96@gmail.com",
+        1
+    ],
+    [
+        "johanq89@gmail.com",
+        1
+    ],
+    [
+        "47578400+JesusRRRojas@users.noreply.github.com",
+        1
+    ],
+    [
+        "luisa_malaver@hotmail.com",
+        1
+    ],
+    [
+        "mariapaularoes@gmail.com",
+        1
+    ],
+    [
+        "ing.daniel.go@gmail.com",
+        1
+    ],
+    [
+        "cancorreo1001@gmail.com",
+        1
+    ],
+    [
+        "david_ivan240@ciencias.unam.mx",
+        1
+    ],
+    [
+        "eltonsedano35@gmail.com",
+        1
+    ],
+    [
+        "elisonsanchez15@gmail.com",
+        1
+    ],
+    [
+        "luistua@gmail.com",
+        1
+    ],
+    [
+        "potatokoosh@gmail.com",
+        1
+    ],
+    [
+        "radeon777@live.com",
+        1
+    ],
+    [
+        "8047140+jcolorado19@users.noreply.github.com",
+        1
+    ],
+    [
+        "yoelribero9@gmail.com",
+        1
+    ],
+    [
+        "fierrofenix@gmail.com",
+        1
+    ],
+    [
+        "44810201+sebastyler@users.noreply.github.com",
+        1
+    ],
+    [
+        "luis152288@gmail.com",
+        1
+    ],
+    [
+        "52257577+SCT-dev-One@users.noreply.github.com",
+        1
+    ],
+    [
+        "vincentjbs@gmail.com",
+        1
+    ],
+    [
+        "lzabala28@gmail.com",
+        1
+    ],
+    [
+        "45633943+solnaranjo@users.noreply.github.com",
+        1
+    ],
+    [
+        "william.velazquez.a@gmail.com",
+        1
+    ],
+    [
+        "kikega@telefonica.net",
+        1
+    ],
+    [
+        "52335231+GastonCaldera@users.noreply.github.com",
+        1
+    ],
+    [
+        "48264455+sergioriosp04@users.noreply.github.com",
+        1
+    ],
+    [
+        "xteban06@gmail.com",
+        1
+    ],
+    [
+        "oceballos@ucol.mx",
+        1
+    ],
+    [
+        "albertoglezb@hotmail.com",
+        1
+    ],
+    [
+        "danielgbc2610@gmail.com",
+        1
+    ],
+    [
+        "rodrigo.cruz@exxis-group.com",
+        1
+    ],
+    [
+        "42484663+VRAraya@users.noreply.github.com",
+        1
+    ],
+    [
+        "luisrangelc@rpaipos.com",
+        1
+    ],
+    [
+        "kathya.pravia@gmail.com",
+        1
+    ],
+    [
+        "jvasquez79@gmail.com",
+        1
+    ],
+    [
+        "rogeralmengor@gmail.com",
+        1
+    ],
+    [
+        "zeladarick@gmail.com",
+        1
+    ],
+    [
+        "mosqueradavid@outlook.es",
+        1
+    ],
+    [
+        "soulsilversx@gmail.com",
+        1
+    ],
+    [
+        "juanpa_celedon@outlook.com",
+        1
+    ],
+    [
+        "alvarolh27@hotmail.com",
+        1
+    ],
+    [
+        "said.g@hotmail.com",
+        1
+    ],
+    [
+        "crash.diego91@gmail.com",
+        1
+    ],
+    [
+        "joseantoniofdezcobos@gmail.com",
+        1
+    ],
+    [
+        "emauriciobc@hotmail.com",
+        1
+    ],
+    [
+        "30516460+RonaldNolascoU@users.noreply.github.com",
+        1
+    ],
+    [
+        "juanpablofds@gmail.com",
+        1
+    ],
+    [
+        "alexis.pv19@gmail.com",
+        1
+    ],
+    [
+        "abyleyva75@gmail.com",
+        1
+    ],
+    [
+        "tizianaamicarella.tag@gmail.com",
+        1
+    ],
+    [
+        "charlesshb98@gmail.com",
+        1
+    ],
+    [
+        "alejandrosoto08@gmail.com",
+        1
+    ],
+    [
+        "davidpr92@hotmail.com",
+        1
+    ],
+    [
+        "xavierfiv@gmail.com",
+        1
+    ],
+    [
+        "julio.bp2@gmail.com",
+        1
+    ],
+    [
+        "marc.fuentesa@alumnos.duoc.cl",
+        1
+    ],
+    [
+        "luisfelipe588@hotmail.com",
+        1
+    ],
+    [
+        "51925565+lokymm@users.noreply.github.com",
+        1
+    ],
+    [
+        "solisgregorip@gmail.com",
+        1
+    ],
+    [
+        "alex11_bran@hotmail.com",
+        1
+    ],
+    [
+        "jrojo@sre.gob.mx",
+        1
+    ],
+    [
+        "rymoisess@gmail.com",
+        1
+    ],
+    [
+        "jhina.rivera@bitsamericas.com",
+        1
+    ],
+    [
+        "chisthoper96@gmail.com",
+        1
+    ],
+    [
+        "47611250+lalouy90@users.noreply.github.com",
+        1
+    ],
+    [
+        "luis102128@outlook.com",
+        1
+    ],
+    [
+        "musenberg404@gmail.com",
+        1
+    ],
+    [
+        "danielfernandocorrea1@gmail.com",
+        1
+    ],
+    [
+        "jperdomocorrea@gmail.com",
+        1
+    ],
+    [
+        "tetolivares@gmail.com",
+        1
+    ],
+    [
+        "raul.franco@norvoz.es",
+        1
+    ],
+    [
+        "hector_bueno17@hotmail.com",
+        1
+    ],
+    [
+        "ingdairoaguas@gmail.com",
+        1
+    ],
+    [
+        "zonalez1@gmail.com",
+        1
+    ],
+    [
+        "andresparedesdesign@gmail.com",
+        1
+    ],
+    [
+        "olveratelcel@gmail.com",
+        1
+    ],
+    [
+        "48360535+LimjoJin@users.noreply.github.com",
+        1
+    ],
+    [
+        "dsantacruz@gmail.com",
+        1
+    ],
+    [
+        "g.miguel27@gmail.com",
+        1
+    ],
+    [
+        "gerardoalvarado.bionico@gmail.com",
+        1
+    ],
+    [
+        "cjimenezd90@gmail.com",
+        1
+    ],
+    [
+        "benitez.leonardo06@gmail.com",
+        1
+    ],
+    [
+        "robertomarzoa@gmail.com",
+        1
+    ],
+    [
+        "34929517+Guille0197@users.noreply.github.com",
+        1
+    ],
+    [
+        "fher.melendez@gmail.com",
+        1
+    ],
+    [
+        "51744009+NataliaRE@users.noreply.github.com",
+        1
+    ],
+    [
+        "juan.coscollola@gmail.com",
+        1
+    ],
+    [
+        "ronyramsol@gmail.com",
+        1
+    ],
+    [
+        "felipe-sc@hotmail.es",
+        1
+    ],
+    [
+        "jenvigo@gmail.com",
+        1
+    ],
+    [
+        "ciro1200@gmail.com",
+        1
+    ],
+    [
+        "ingdcuevas@gmail.com",
+        1
+    ],
+    [
+        "jestobar@udlanet.ec",
+        1
+    ],
+    [
+        "damartinezru@gmail.com",
+        1
+    ],
+    [
+        "patricionicanorcabrera@gmail.com",
+        1
+    ],
+    [
+        "jpvillaplana@gmail.com",
+        1
+    ],
+    [
+        "48460492+eocas98@users.noreply.github.com",
+        1
+    ],
+    [
+        "atlantox7@gmail.com",
+        1
+    ],
+    [
+        "yejagoar@hotmail.com",
+        1
+    ],
+    [
+        "stefany.vega2210@gmail.com",
+        1
+    ],
+    [
+        "43894343+matias4205@users.noreply.github.com",
+        1
+    ],
+    [
+        "34718852+EchinFer@users.noreply.github.com",
+        1
+    ],
+    [
+        "fabandres08@gmail.com",
+        1
+    ],
+    [
+        "14470208@itcampeche.edu.mx",
+        1
+    ],
+    [
+        "diego_suarez@outlook.com",
+        1
+    ],
+    [
+        "leitorino_ajl2@hotmail.com",
+        1
+    ],
+    [
+        "31641682+Kenar716@users.noreply.github.com",
+        1
+    ],
+    [
+        "melyssasolanod@gmail.com",
+        1
+    ],
+    [
+        "45796914+Samuelab2@users.noreply.github.com",
+        1
+    ],
+    [
+        "mrtn_dja@hotmail.com",
+        1
+    ],
+    [
+        "jgarzonebrath08@gmail.com",
+        1
+    ],
+    [
+        "tmaniacus@gmail.com",
+        1
+    ],
+    [
+        "onekyork@hotmail.com",
+        1
+    ],
+    [
+        "kmilogong@gmail.com",
+        1
+    ],
+    [
+        "aeonics@users.noreply.github.com",
+        1
+    ],
+    [
+        "carlosandrescr99@gmail.com",
+        1
+    ],
+    [
+        "matiasperezpc@hotmail.com",
+        1
+    ],
+    [
+        "gabrielpmolero@gmail.com",
+        1
+    ],
+    [
+        "franciscorojas92@gmail.com",
+        1
+    ],
+    [
+        "51029575+DubAvenXP@users.noreply.github.com",
+        1
+    ],
+    [
+        "42588043+junioraguayocuadros@users.noreply.github.com",
+        1
+    ],
+    [
+        "elazul92ortiz@gmail.com",
+        1
+    ],
+    [
+        "rojasleon122@gmail.com",
+        1
+    ],
+    [
+        "augustocacersuto1985@gmail.com",
+        1
+    ],
+    [
+        "omoreno@widetech.com.co",
+        1
+    ],
+    [
+        "rodrigogaonagonzalez@gmail.com",
+        1
+    ],
+    [
+        "ciprianot.bryan@gmail.com",
+        1
+    ],
+    [
+        "jesuslopez@ciencias.unam.mx",
+        1
+    ],
+    [
+        "j97valey@gmail.com",
+        1
+    ],
+    [
+        "eyepez@solomediagroup.co",
+        1
+    ],
+    [
+        "jmonterrey1993@gmail.com",
+        1
+    ],
+    [
+        "javieracevedoaltube@gmail.com",
+        1
+    ],
+    [
+        "48167910+jaacode@users.noreply.github.com",
+        1
+    ],
+    [
+        "alejandro7120@gmail.com",
+        1
+    ],
+    [
+        "bran941@gmail.com",
+        1
+    ],
+    [
+        "andres_car098@hotmail.com",
+        1
+    ],
+    [
+        "39383351+fawkes55@users.noreply.github.com",
+        1
+    ],
+    [
+        "matiexe31@gmail.com",
+        1
+    ],
+    [
+        "juliocardenasr@gmail.com",
+        1
+    ],
+    [
+        "Ruben.pipe.alvarez@gmail.com",
+        1
+    ],
+    [
+        "whary11@gmail.com",
+        1
+    ],
+    [
+        "bernardoayala2@gmail.com",
+        1
+    ],
+    [
+        "beapsant@gmail.com",
+        1
+    ],
+    [
+        "48229215+jhonM8a@users.noreply.github.com",
+        1
+    ],
+    [
+        "dalexisbr@gmail.com",
+        1
+    ],
+    [
+        "galaxy.net0710@gmail.com",
+        1
+    ],
+    [
+        "migue_uio93@hotmail.com",
+        1
+    ],
+    [
+        "david.2818@outlook.com",
+        1
+    ],
+    [
+        "47837439+Audio10@users.noreply.github.com",
+        1
+    ],
+    [
+        "rrrodriguezc83@gmail.com",
+        1
+    ],
+    [
+        "jairpartida1@gmail.com",
+        1
+    ],
+    [
+        "andresageitos@gmail.com",
+        1
+    ],
+    [
+        "jon.cl371@gmail.com",
+        1
+    ],
+    [
+        "acevedocris17@gmail.com",
+        1
+    ],
+    [
+        "46495565+GerArJe@users.noreply.github.com",
+        1
+    ],
+    [
+        "bhalut.bear@gmail.com",
+        1
+    ],
+    [
+        "paulacode01@gmail.com",
+        1
+    ],
+    [
+        "quinterosantiago15@gmail.com",
+        1
+    ],
+    [
+        "ericyec@gmail.com",
+        1
+    ],
+    [
+        "50107962+rodrigobosarreyes@users.noreply.github.com",
+        1
+    ],
+    [
+        "dgpericos@gmail.com",
+        1
+    ],
+    [
+        "aguilarmanu5@gmail.com",
+        1
+    ],
+    [
+        "moisespatinoh@gmail.com",
+        1
+    ],
+    [
+        "maxidv88@gmail.com",
+        1
+    ],
+    [
+        "daniel.martinez.sarta@gmail.com",
+        1
+    ],
+    [
+        "ricardo.anthont.tierra@Gmail.com",
+        1
+    ],
+    [
+        "alirioangelarenas@gmail.com",
+        1
+    ],
+    [
+        "cristhho@gmail.com",
+        1
+    ],
+    [
+        "jhonhst2@gmail.com",
+        1
+    ],
+    [
+        "jusemonca@gmail.com",
+        1
+    ],
+    [
+        "developerquino@hotmail.es",
+        1
+    ],
+    [
+        "uzzielasv@gmail.com",
+        1
+    ],
+    [
+        "43417614+Victor-Landa@users.noreply.github.com",
+        1
+    ],
+    [
+        "alexabellerman@gmail.com",
+        1
+    ],
+    [
+        "eden.verdugo@gmail.com",
+        1
+    ],
+    [
+        "48002294+YerkoEstevez@users.noreply.github.com",
+        1
+    ],
+    [
+        "joel.e.gaspar@gmail.com",
+        1
+    ],
+    [
+        "jpleyvat@gmail.com",
+        1
+    ],
+    [
+        "adrianmorenojh@hotmail.com",
+        1
+    ],
+    [
+        "30274227+Lcaraballoc@users.noreply.github.com",
+        1
+    ],
+    [
+        "mauricionline123@gmail.com",
+        1
+    ],
+    [
+        "50891951+irvingsan@users.noreply.github.com",
+        1
+    ],
+    [
+        "35357785+Andradeerik@users.noreply.github.com",
+        1
+    ],
+    [
+        "jghernandez84@gmail.com",
+        1
+    ],
+    [
+        "gonzadeveloper@gmail.com",
+        1
+    ],
+    [
+        "ilder948@gmail.com",
+        1
+    ],
+    [
+        "dliterat@gmail.com",
+        1
+    ],
+    [
+        "edgar.barragan@gmail.com",
+        1
+    ],
+    [
+        "elyager@gmail.com",
+        1
+    ],
+    [
+        "victor_neptuno@hotmail.com",
+        1
+    ],
+    [
+        "36989047+kingsman7@users.noreply.github.com",
+        1
+    ],
+    [
+        "lcmojica@gmail.com",
+        1
+    ],
+    [
+        "49731321+anitaplatzi@users.noreply.github.com",
+        1
+    ]
+]
